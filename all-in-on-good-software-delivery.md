@@ -11,7 +11,9 @@ Who can join this list? Anyone that's contributed to GSD, been part of a GSD imp
 
 The repo can be found here: https://github.com/drewkhoury/all-in-on-good-software-delivery
 
-## Who's all in on Good Software Delivery? (newest members at the top of the list)
+## Who's all in on Good Software Delivery?
 
-[Andrew Ochsner](https://www.andyochsner.com) - Early GSD adopter, advocate.
-[Andrew Khoury](https://www.drewkhoury.com/drew/) - Founding member of GSD, advocate.
+Newest additions are at the top of this list:
+
+- [Andrew Ochsner](https://www.andyochsner.com) - Early GSD adopter, advocate.
+- [Andrew Khoury](https://www.drewkhoury.com/drew/) - Founding member of GSD, advocate.
