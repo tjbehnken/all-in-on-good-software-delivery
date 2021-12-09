@@ -1,6 +1,6 @@
 +++
 title = "All in on Good Software Delivery"
-description = "All in on Good Software Delivery""
+description = "All in on Good Software Delivery"
 date = "2021-12-08"
 author = "Andrew Khoury"
 +++
