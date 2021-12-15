@@ -13,6 +13,7 @@ Who can join this list? Anyone that's contributed to GSD, been part of a GSD imp
 
 This is a list of everyone that's publically "all in on Good Software Delivery" - newest members are at the top of the list.
 
+- [Steve Sima](https://www.linkedin.com/in/steve-sima/) - adpoter, advocate, evangelist
 - [David Cerda](https://www.linkedin.com/in/david-cerda-9791932) - Early GSD adopter, advocate
 - [Dan Mannisto](https://www.linkedin.com/in/dan-mannisto/) - GSD practitioner, advocate
 - [Paul Kordes](https://paul-kordes.medium.com/) - Early GSD adopter, advocate
