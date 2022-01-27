@@ -13,7 +13,7 @@ Who can join this list? Anyone that's contributed to GSD, been part of a GSD imp
 
 This is a list of everyone that's publically "all in on Good Software Delivery" - newest members are at the top of the list.
 
-- [Thomas James Behnken] (https://www.LinkedIn.com/in/Thomas Behnken/) - GSD enthusiast and advocate
+- [Thomas James Behnken] (https://www.linkedin.com/in/thomasbehnken/) - GSD enthusiast and advocate
 - [Craig Kilpatrick](https://www.linkedin.com/in/craig-kilpatrick-84419b87/) - Early GSD adopter, advocate
 - [Joe Bailey](https://www.linkedin.com/in/joelbaileyjr/) - GSD thinker, advocate
 - [Chris Hart](https://www.linkedin.com/in/q6yljvdabz/) - Early GSD adopter, practitioner, advocate
